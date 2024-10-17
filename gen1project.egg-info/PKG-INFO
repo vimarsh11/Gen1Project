@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: gen1project
+Version: 0.0.1
+Summary: A generative AI project using OpenAI, LangChain, and Streamlit
+Author: vimarsh jaiswal
+Author-email: jaiswaldesh16@gmail.com
+License: MIT
